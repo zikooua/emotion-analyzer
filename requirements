@@ -1,0 +1,9 @@
+requirements
+flask
+pandas
+textblob
+vaderSentiment
+nrclex
+rake-nltk
+langdetect
+better-profanity
